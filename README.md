@@ -98,4 +98,4 @@ The [Kubernetes Steering community repo](https://github.com/kubernetes/steering)
 ## Roadmap 
 
 The [Kubernetes Enhancements repo](https://github.com/kubernetes/enhancements) provides information about Kubernetes releases, as well as feature tracking and backlogs.
-Created by Jason Scott Heise
+Created by Jason Scott Heise  https://www.behance.net
