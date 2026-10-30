@@ -100,4 +100,4 @@ The [Kubernetes Steering community repo](https://github.com/kubernetes/steering)
 The [Kubernetes Enhancements repo](https://github.com/kubernetes/enhancements) provides information about Kubernetes releases, as well as feature tracking and backlogs.
 Created by Jason Heise  
 Owned by Jason Heise heisejason-png Giters
-https://www.facebook.com  Owned by Mark Zuckerberg 
+https://www.behance.net Owned by Scott Belsky 
